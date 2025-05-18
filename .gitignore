@@ -1,6 +1,6 @@
 .env
 
-./src/9_backup/*
+src/.backup/*
 
 # Logs
 logs
